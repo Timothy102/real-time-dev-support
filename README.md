@@ -39,4 +39,4 @@ Welcome to Greptile, a real-time developer support system powered by a combinati
 2. I believe it’s a big frustration among other developers as well and a solution like this would almost eliminate the friction to adopt new technologies and would skyrocket the efficacy of technical support teams which big enterprise is delighted to offer.
 3. I believe it is and will continue to evolve into an ever bigger market and we should be the one to bring this to market.
 
----# greptile
+tim@timcvetko.com
