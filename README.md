@@ -1,6 +1,6 @@
-# Greptile - Real-Time Developer Support
+# Real-Time Developer Support
 
-Welcome to Greptile, a real-time developer support system powered by a combination of Large Language Models (LLM) and human assistance.
+A real-time developer support system powered by a combination of Large Language Models (LLM) and human assistance.
 
 ## Idea: Real-Time Developer Support (LLM + Person)
 
